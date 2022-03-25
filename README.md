@@ -1,6 +1,6 @@
 ### Olá, bem-vindo ao meu Github 👋 Meu nome é Felix, sou desenvolvedor de software e estudante de sistemas de informação!
 
-🌱 Atualmente estou estudando: desenvolvimento web e machine learning.
+🌱 Atualmente estou estudando: desenvolvimento back-end.
 <br>📫 Meu e-mail: gafelix@usp.br
 <!--
 **ga-felix/ga-felix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
