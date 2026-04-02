@@ -2,7 +2,7 @@
 
 
 <p>👉🏼 Programo há cinco anos e possuo especialização em performance de banco de dados, algoritmos e sistemas operacionais.</p>
-<p>📝 Atualmente, estou trabalhando como Engenheiro de Software no **Itaú Unibanco**, na plataforma de relacionamento com clientes usando Java 8+.</p>
+<p>📝 Atualmente, estou trabalhando como Engenheiro de Software no <b>Itaú Unibanco</b>, na plataforma de relacionamento com clientes usando Java 8+.</p>
 <p>🎮 Desenvolvo jogos no Unreal Engine 5 usando C++.</p>
 <p>📧 Meu e-mail é <a href = "mailto:gafelix@alumni.usp.br">gafelix@alumni.usp.br</a>. Eu juro que leio meus e-mails, eventualmente.
 <div align="center" style="display: inline_block"><br>
