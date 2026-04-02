@@ -1,10 +1,10 @@
 ## Prazer, meu nome é Gabriel 👋🏼
 
 
-<p>👉🏼 Programo há quatro anos e estou interessado em evoluir no Java +8. Também gosto de programar em Assembly e C.</p>
-<p>📝 Atualmente, estou trabalhando como Site Reability Engineer (SRE) na Atos Brasil num cliente do setor financeiro.</p>
-<p>🎮 Gosto muito de jogar videogame, assistir séries/animes, ver dicas de moda e passear com meus amigos.</p>
-<p>📧 Meu e-mail é <a href = "mailto:gafelix@alumni.usp.br">gafelix@alumni.usp.br</a>. Eu juro que leio meus e-mails diariamente, exceto no final de semana.
+<p>👉🏼 Programo há cinco anos e possuo especialização em performance de banco de dados, algoritmos e sistemas operacionais.</p>
+<p>📝 Atualmente, estou trabalhando como Engenheiro de Software no **Itaú Unibanco**, na plataforma de relacionamento com clientes usando Java 8+.</p>
+<p>🎮 Desenvolvo jogos no Unreal Engine 5 usando C++.</p>
+<p>📧 Meu e-mail é <a href = "mailto:gafelix@alumni.usp.br">gafelix@alumni.usp.br</a>. Eu juro que leio meus e-mails, eventualmente.
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
